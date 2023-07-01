@@ -1,0 +1,13 @@
+input, label{
+    display:flex;
+    flex-direction: column;
+    
+}
+fieldset{
+    position: relative;
+}
+legend{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
